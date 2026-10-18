@@ -11,3 +11,5 @@
 ## Experiment 4 – Histogram Equalization
 [**Open in Google Colab**](https://colab.research.google.com/github/krithika532/COMPUTER-VISION/blob/main/Exp-4.ipynb)
 
+## Experiment 5 – Histogram Analysis Based on Color Levels Using OpenCV
+[**Open in Google Colab**](https://colab.research.google.com/github/krithika532/COMPUTER-VISION/blob/main/Exp-5.ipynb)
