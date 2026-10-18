@@ -13,3 +13,6 @@
 
 ## Experiment 5 – Histogram Analysis Based on Color Levels Using OpenCV
 [**Open in Google Colab**](https://colab.research.google.com/github/krithika532/COMPUTER-VISION/blob/main/Exp-5.ipynb)
+
+## Experiment 6 – Image Erosion using OpenCV
+[**Open in Google Colab**](https://colab.research.google.com/github/krithika532/COMPUTER-VISION/blob/main/Exp-6.ipynb)
