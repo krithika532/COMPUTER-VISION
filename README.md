@@ -8,3 +8,6 @@
 ### Experiment 3 – Image Processing
 [**Open in Google Colab**](https://colab.research.google.com/github/krithika532/COMPUTER-VISION/blob/main/EXP-3.ipynb)
 
+## Experiment 4 – Histogram Equalization
+[**Open in Google Colab**](https://colab.research.google.com/github/krithika532/COMPUTER-VISION/blob/main/Exp-4.ipynb)
+
