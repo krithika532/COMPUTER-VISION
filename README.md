@@ -16,3 +16,6 @@
 
 ## Experiment 6 – Image Erosion using OpenCV
 [**Open in Google Colab**](https://colab.research.google.com/github/krithika532/COMPUTER-VISION/blob/main/Exp-6.ipynb)
+
+## Experiment 7 – Dilation using OpenCV
+[**Open in Google Colab**](https://colab.research.google.com/github/krithika532/COMPUTER-VISION/blob/main/Exp-7.ipynb)
